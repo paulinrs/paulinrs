@@ -14,12 +14,15 @@
   <a href="https://www.linkedin.com/in/paulo-roberto-568a80209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://twitter.com/paulin_rs/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
           
-   
+# contacts
+
 <h1 align="left">
    <h1 align="left">
  </h1> <img src="https://user-images.githubusercontent.com/104467309/180838262-55e35874-c94c-4d32-9cf3-3d5e18c8c7cd.gif" width="500px">  
    </h1>
 <img src="https://user-images.githubusercontent.com/104467309/178513487-d1a267ff-4f00-4bf2-85f5-4eb27662bc24.gif" width="250px">
+
+# ⚙️ Some Tool and Tech I use:
 
 
 
