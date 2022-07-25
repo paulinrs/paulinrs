@@ -17,7 +17,7 @@
    
 <h1 align="left">
    <h1 align="left">
- </h1> <img src="https://user-images.githubusercontent.com/104467309/178581992-155ca055-d2da-4bfe-9305-01a0bde87ca1.gif" width="350px">  
+ </h1> <img src="https://user-images.githubusercontent.com/104467309/180838262-55e35874-c94c-4d32-9cf3-3d5e18c8c7cd.gif" width="500px">  
    </h1>
 <img src="https://user-images.githubusercontent.com/104467309/178513487-d1a267ff-4f00-4bf2-85f5-4eb27662bc24.gif" width="250px">
 
