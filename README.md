@@ -1,7 +1,7 @@
 # <h1 align="center">Olá 👋🏻, eu sou o Paulo roberto</h1>
 ### 🌱 Atualmente estou no 2° período de *Análise E Desenvolvimento De Sistemas* e estou me aperfeiçoando em *Cypress e Fundamentos de Testes e uma tenho noção em RobotFramework.*
 ### 📚 Apaixonado por Livros.
-### 💻 É claro por Tecnologia
+### 💻 É claro por Tecnologia.
 
 
 <div align="center">
