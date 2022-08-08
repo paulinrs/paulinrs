@@ -1,5 +1,5 @@
 # <h1 align="center">Olá 👋🏻, eu sou o Paulo roberto</h1>
-### 🌱 Atualmente estou no 2° período de *Análise E Desenvolvimento De Sistemas* e estou me aperfeiçoando em *Cypress e Fundamentos de Testes e uma tenho noção em RobotFramework.*
+### 🌱 Atualmente estou no 2° período de *Análise E Desenvolvimento De Sistemas* e estou me aperfeiçoando em *Cypress, RobotFramework e Fundamentos de Testes.*
 ### 📚 Apaixonado por Livros.
 ### 💻 e por Tecnologia.
 
@@ -37,5 +37,3 @@
 
 ![Snake animation](https://github.com/paulinrs/paulinrs/blob/output/github-contribution-grid-snake.svg)
 
-
-<a href="https://twitter.com/paulin_rs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joseassis" height="30" width="40" /></a>
