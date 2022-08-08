@@ -1,5 +1,5 @@
 # Óla sou Paulo Roberto!
-### 🌱 Atualmente estou no 2° período de *Análise E Desenvolvimento De Sistemas* e estou me aperfeiçoando em *Cypress e Fundamentos de Testes e uma boa noção em RobotFramework.*
+### 🌱 Atualmente estou no 2° período de *Análise E Desenvolvimento De Sistemas* e estou me aperfeiçoando em *Cypress e Fundamentos de Testes e uma tenho noção em RobotFramework.*
 
 *🔭 Meu projetos no site do [Cypress](https://dashboard.cypress.io/organizations/763f2edd-17b7-414b-ae73-4342a8d22ed4/projects)*
 
