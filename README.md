@@ -1,9 +1,8 @@
-# <h1 align="center">Olá 👋🏻, eu sou o Paulo Roberto</h1>
-### 🌱 Atualmente estou no 2° período de *Análise E Desenvolvimento De Sistemas* e estou me aperfeiçoando em *Cypress, RobotFramework e Fundamentos de Testes.*
-### 📚 Apaixonado por Livros.
-### 💻 e por Tecnologia.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=FFFFFF&center=true&width=1000&lines=Quality+Assurance.;Olá,+eu+sou+Paulo+Roberto%2C+Atualmente+Cursando;+3%C2%B0+período+de+Análise+e+Desenvolvimento+de+Sistemas.;+e+estou+me+aperfeiçoando+em+Cypress,+JavaScript;+RobotFramework+e+Fundamentos+de+Testes.;+📚+Apaixonado+por+Livros.;+💻+e+por+Tecnologia.;+Bem+Vindo(a)!)](https://git.io/typing-svg)
 
-
+> "Quanto mais estudo, mais sinto que minha mente nisso é insaciável." 
+    - <i>ADA LOVELACE</i>
+    
 <div align="center">
 <img align="leaft" alt="Gif" height="360" width="640" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/104467309/178572559-8f9a513e-d90b-4a3b-9c13-15dbf61fceb1.gif">
 <div align="center">
