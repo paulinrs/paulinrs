@@ -23,7 +23,7 @@
           
 # Linguagens e ferramentas do meu dia a dia:
 
- </h1> <img src="https://user-images.githubusercontent.com/104467309/180838262-55e35874-c94c-4d32-9cf3-3d5e18c8c7cd.gif" width="400px">  
+ </h1> <img src="https://user-images.githubusercontent.com/104467309/195205589-3b0dea8d-fac3-4f29-9269-c329e84513aa.gif" width="400px">  
    </h1>
 <img src="https://user-images.githubusercontent.com/104467309/178513487-d1a267ff-4f00-4bf2-85f5-4eb27662bc24.gif" width="250px">
 
