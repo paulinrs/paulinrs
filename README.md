@@ -7,7 +7,7 @@
 <img align="leaft" alt="Gif" height="360" width="640" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/104467309/178572559-8f9a513e-d90b-4a3b-9c13-15dbf61fceb1.gif">
 <div align="center">
 <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulinrs&theme=radical"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulinrs&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinrs&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulinrs&theme=radical&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulinrs&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinrs&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="255em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulinrs&theme=radical&hide_border=true"/>
 
 <div align="center">
 <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="80"> 
