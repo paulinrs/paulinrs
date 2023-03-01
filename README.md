@@ -24,7 +24,7 @@
           
 # Linguagens e ferramentas do meu dia a dia:
 
- </h1> <img src="https://user-images.githubusercontent.com/104467309/195210138-9e2c1466-0cbe-4292-a8ce-ac08d5fd6f71.gif" width="400px">  
+ </h1> <img src="https://user-images.githubusercontent.com/104467309/222152869-ba3c374b-5c5b-4c37-b3a4-7cd4234c3307.gif" width="400px">  
    </h1>
 <img src="https://user-images.githubusercontent.com/104467309/178513487-d1a267ff-4f00-4bf2-85f5-4eb27662bc24.gif" width="250px">
 
