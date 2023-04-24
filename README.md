@@ -19,9 +19,11 @@
   <a href = "mailto:paulinn.rs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulinnrs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://twitter.com/paulin_rs/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  
+  # Meus => [CERTIFICADOS](https://github.com/paulinrs/certificados) 
   #
   ![banner](https://user-images.githubusercontent.com/104467309/189486087-80881286-d3b6-42ae-9c32-4417a439a8a3.jpg)
-  #
+  
           
 # Linguagens e ferramentas do meu dia a dia:
 
@@ -29,12 +31,7 @@
    </h1>
 <img src="https://user-images.githubusercontent.com/104467309/178513487-d1a267ff-4f00-4bf2-85f5-4eb27662bc24.gif" width="250px">
 
-  ##
-
-
-
-
-
+#
 
 ![Snake animation](https://github.com/paulinrs/paulinrs/blob/output/github-contribution-grid-snake.svg)
 
