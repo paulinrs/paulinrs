@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/paulinnrs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://twitter.com/paulin_rs/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
-  # Meus => [CERTIFICADOS](https://github.com/paulinrs/certificados) 
+  # Meus [CERTIFICADOS](https://github.com/paulinrs/certificados) 
   #
   ![banner](https://user-images.githubusercontent.com/104467309/189486087-80881286-d3b6-42ae-9c32-4417a439a8a3.jpg)
   
