@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=ff0000&center=true&width=1000&lines=Olá,+eu+sou+Paulo+Roberto;+Atualmente+Cursando+4%C2%B0+período;+de+Análise+e+Desenvolvimento+de+Sistemas;+estudando+qualidade+e+programação;+automação+com+Cypress+e+RobotFramework;+e+na+área+de+programação+com+JavaScript+e+Phyton!;+sou+Apaixonado+por+Tecnologia+💻+e+Livros+📚.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=ff0000&center=true&width=1000&lines=Olá,+eu+sou+Paulo+Roberto;+Atualmente+Cursando+4%C2%B0+período;+de+Análise+e+Desenvolvimento+de+Sistemas;+🌱+estudando+e+me+aprimorando+em;+qualidade+e+programação;+na+automação+com+Cypress+e+RobotFramework;+e+na+programação+com+JavaScript+e+Phyton!;+sou+Apaixonado+por+Tecnologia+💻+e+Livros+📚.)](https://git.io/typing-svg)
 
 > "Quanto mais estudo, mais sinto que minha mente nisso é insaciável." 
     - <i>ADA LOVELACE</i>
