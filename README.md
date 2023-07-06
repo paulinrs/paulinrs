@@ -23,12 +23,19 @@
   #  [Meus CERTIFICADOS](https://github.com/paulinrs/certificados) 
   #
   ![banner](https://user-images.githubusercontent.com/104467309/189486087-80881286-d3b6-42ae-9c32-4417a439a8a3.jpg)
-  
+ 
           
 # Linguagens e ferramentas do meu dia a dia:
 
- </h1> <img src="https://user-images.githubusercontent.com/104467309/222152869-ba3c374b-5c5b-4c37-b3a4-7cd4234c3307.gif" width="400px">  
-   </h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,py,vscode,git,github,githubactions" />
+  </a>
+</p>
+
+
+
+
 <img src="https://user-images.githubusercontent.com/104467309/178513487-d1a267ff-4f00-4bf2-85f5-4eb27662bc24.gif" width="250px">
 
 #
