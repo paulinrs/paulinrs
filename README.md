@@ -38,11 +38,8 @@
 
 <img src="https://user-images.githubusercontent.com/104467309/178513487-d1a267ff-4f00-4bf2-85f5-4eb27662bc24.gif" width="250px">
 
+<h2><b>"A única constante é a mudança" - <i>LINUS TORVALDS</i><b/></h2>
 
-<i>"A única constante é a mudança" - <b>LINUS TORVALDS<b/></i>
-
-
-#
 
 ![Snake animation](https://github.com/paulinrs/paulinrs/blob/output/github-contribution-grid-snake.svg)
 
