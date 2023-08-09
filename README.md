@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=ff0000&center=true&width=1000&lines=Olá,+eu+sou+Paulo+Roberto;+seja+muito+bem+vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=ff0000&center=true&width=1000&lines=Olá,+eu+sou+Paulo+Roberto;+Seja+muito-vindo!(a))](https://git.io/typing-svg)
 
 #
 <h2 align="center"><b><i>Atualmente estou Cursando o 4°período de Análise e Desenvolvimento  <br>
 de Sistemas, Estudando Desenvolvimento Full Stack na Onebitcode <br>
-e apaixonado por 💻Tecnologia e 📚Livros. </i><b/></h2>
+e apaixonado por Tecnologia 💻 e Livros 📚. </i><b/></h2>
     
 <div align="center">
 <img align="leaft" alt="Gif" height="390" width="870" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/104467309/178572559-8f9a513e-d90b-4a3b-9c13-15dbf61fceb1.gif">
@@ -20,8 +20,6 @@ e apaixonado por 💻Tecnologia e 📚Livros. </i><b/></h2>
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulinrs&theme=radical"/> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulinrs&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinrs&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulinrs&theme=radical&hide_border=true"/>    
 
-
-    
 <div align="center">
 <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="80"> 
 
@@ -31,11 +29,11 @@ e apaixonado por 💻Tecnologia e 📚Livros. </i><b/></h2>
   <a href="https://www.linkedin.com/in/paulinnrs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://twitter.com/paulin_rs/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
- #
+#
   
-  #  [Meus CERTIFICADOS](https://github.com/paulinrs/certificados) 
+#  [Meus CERTIFICADOS](https://github.com/paulinrs/certificados) 
   
-  ![banner](https://user-images.githubusercontent.com/104467309/189486087-80881286-d3b6-42ae-9c32-4417a439a8a3.jpg)
+![banner](https://user-images.githubusercontent.com/104467309/189486087-80881286-d3b6-42ae-9c32-4417a439a8a3.jpg)
  
 
 <p align="center">
