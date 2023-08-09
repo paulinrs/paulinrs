@@ -3,7 +3,7 @@
 #
 <h2 align="center"><b><i>Atualmente estou Cursando o 4 °período de Análise e Desenvolvimento  <br>
 de Sistemas, Estudando Desenvolvimento Full Stack na Onebitcode <br>
-e sou apaixonado por Tecnologia 💻 e Literatura 📚. </i><b/></h2>
+e sou um apaixonado por Tecnologia 💻 e Literatura 📚. </i><b/></h2>
     
 <div align="center">
 <img align="leaft" alt="Gif" height="390" width="870" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/104467309/178572559-8f9a513e-d90b-4a3b-9c13-15dbf61fceb1.gif">
