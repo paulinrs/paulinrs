@@ -1,17 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=ff0000&center=true&width=1000&lines=Olá,+eu+sou+Paulo+Roberto;+Seja+muito-vindo!(a))](https://git.io/typing-svg)
-
 #
-<h2 align="center"><b><i>Atualmente estou Cursando o 4 °período de Análise e Desenvolvimento  <br>
-de Sistemas, Estudando Desenvolvimento Full Stack na Onebitcode <br>
-e apaixonado por Tecnologia 💻 e Literatura 📚. </i><b/></h2>
-    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=ff0000&center=true&width=1000&lines=Hello,+I+am+Paulo+Roberto.;+Be+very+welcome.)](https://git.io/typing-svg)
+#
 <div align="center">
-<img align="leaft" alt="Gif" height="390" width="870" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/104467309/178572559-8f9a513e-d90b-4a3b-9c13-15dbf61fceb1.gif">
+<h2><b><i>I am currently in the 4th period of studying System Analysis and Development, learning
+    
+ Full Stack Development at Onebitcode, and passionate about Technology and Literature</i><b/></h2>
+
+
+<img alt="Gif" height="390" width="870" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/104467309/178572559-8f9a513e-d90b-4a3b-9c13-15dbf61fceb1.gif">
 </div>
 
-#
 
- <h3 align="center"> 👉"Quanto mais estudo, mais sinto que minha mente nisso é insaciável." 
+
+ <h3 align="center"> 👉"The more I study, the more I feel that my mind is insatiable for it." 
     - <i>ADA LOVELACE</i></h3>
 
 #
@@ -22,35 +23,35 @@ e apaixonado por Tecnologia 💻 e Literatura 📚. </i><b/></h2>
 
 <div align="center">
 <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="80"> 
-
-
-# 📫 Contato:
-  <a href="https://www.instagram.com/paulinnrs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:paulors.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulinnrs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+<br>
 
-#
-  
-#  [Meus CERTIFICADOS](https://github.com/paulinrs/certificados) 
-  
-![banner](https://user-images.githubusercontent.com/104467309/189486087-80881286-d3b6-42ae-9c32-4417a439a8a3.jpg)
- 
+#  [My CERTIFICATES](https://github.com/paulinrs/certificados) 
 
+![you learn](https://github.com/paulinrs/paulinrs/assets/104467309/c1849755-cd5b-424b-926e-1dbda84bf33c)
+
+
+  
 <p align="center">
   <img src="https://camo.githubusercontent.com/667a1b5f72fd3bea2f990da4a75cd30b92899281133f8b3cd2d9d6dbfe3d39b2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e676966" width="100">
-    
-   <h1>"Linguagens e ferramentas do meu dia a dia:"</h1>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,py,vscode,github,git,githubactions" />
-  </a>
+
+<p align="center"> 
+<img src="https://img.shields.io/badge/⚙️ Some Tool and Tech I use:-000000?style=""=hyper&logoColor=white" width="450">
+
+<br>
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,vscode,github,git" />
+</a>
 </p>
 
 
 <img src="https://user-images.githubusercontent.com/104467309/178513487-d1a267ff-4f00-4bf2-85f5-4eb27662bc24.gif" width="250px">
 
-<h2><b>"A única constante é a mudança" - <i>LINUS TORVALDS</i><b/></h2>
+<h2><b> "The only constant is change."  - <i>LINUS TORVALDS</i><b/></h2>
 
 
 ![Snake animation](https://github.com/paulinrs/paulinrs/blob/output/github-contribution-grid-snake.svg)
+
+![onda](https://raw.githubusercontent.com/dawidolko/dawidolko/f6ca2a27d89dac833266ca9e56c0e485df346635/assets/Bottom_down.svg)
 
