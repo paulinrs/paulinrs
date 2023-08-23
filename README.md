@@ -12,7 +12,7 @@
 
 
 
- <h3 align="center"> 👉"The more I study, the more I feel that my mind is insatiable for it." 
+ <h3 align="center"> 👉 "The more I study, the more I feel that my mind is insatiable for it." 
     - <i>ADA LOVELACE</i></h3>
 
 #
