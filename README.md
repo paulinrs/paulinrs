@@ -23,6 +23,7 @@ e apaixonado por Tecnologia 💻 e Literatura 📚. </i><b/></h2>
 <div align="center">
 <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="80"> 
 
+
 # 📫 Contato:
   <a href="https://www.instagram.com/paulinnrs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:paulors.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -37,7 +38,8 @@ e apaixonado por Tecnologia 💻 e Literatura 📚. </i><b/></h2>
  
 
 <p align="center">
-  
+  <img src="https://camo.githubusercontent.com/667a1b5f72fd3bea2f990da4a75cd30b92899281133f8b3cd2d9d6dbfe3d39b2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e676966" width="100">
+    
    <h1>"Linguagens e ferramentas do meu dia a dia:"</h1>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,py,vscode,github,git,githubactions" />
