@@ -51,7 +51,7 @@
 <h2><b> "The only constant is change."  - <i>LINUS TORVALDS</i><b/></h2>
 
 
-![Snake Animation](https://github.com/AlvaroDavi5/AlvaroDavi5/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://github.com/paulinrs/paulinrs/blob/output/github-contribution-grid-snake-dark.svg)
 
 ![onda](https://raw.githubusercontent.com/dawidolko/dawidolko/f6ca2a27d89dac833266ca9e56c0e485df346635/assets/Bottom_down.svg)
 
