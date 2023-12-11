@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=ff0000&center=true&width=1000&lines=Hello,+I+am+Paulo+Roberto.;+Be+very+welcome.)](https://git.io/typing-svg)
 #
 <div align="center">
-<h2><b><i>I am currently in the 4th period of studying System Analysis and Development, learning
+<h2><b><i>I am currently in the 5th period of studying System Analysis and Development, learning
     
  Full Stack Development at [Onebitcode](https://cursos.onebitcode.com/area/vitrine), and passionate about Technology and Literature</i><b/></h2>
 
