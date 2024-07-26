@@ -2,9 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=ff0000&center=true&width=1000&lines=Hello,+I+am+Paulo+Roberto.;+Be+very+welcome.)](https://git.io/typing-svg)
 #
 <div align="center">
-<h2><b><i>I am currently in the 5th period of studying System Analysis and Development, learning
+<h2><b><i>Graduated in Systems Analysis and Development, student Postgraduate 
     
- Full Stack Development at [Onebitcode](https://cursos.onebitcode.com/area/vitrine), and passionate about Technology and Literature</i><b/></h2>
+in software testing from [Cruzeiro do Sul](https://cursos.cruzeirodosulvirtual.com.br/pos-testes-de-software/p), and passionate about Technology and Literature.</i><b/></h2>
 
 
 <img alt="Gif" height="390" width="870" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/104467309/178572559-8f9a513e-d90b-4a3b-9c13-15dbf61fceb1.gif">
