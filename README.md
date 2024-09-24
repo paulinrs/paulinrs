@@ -40,7 +40,7 @@ in software testing from [Cruzeiro do Sul](https://cursos.cruzeirodosulvirtual.c
 <br>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,vscode,github,git" />
+<img src="https://skillicons.dev/icons?i=vscode,cypress,postman,html,css,js,ts,nodejs,py,github,git" />
 </a>
 </p>
 
