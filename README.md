@@ -26,7 +26,6 @@ in software testing from [Cruzeiro do Sul](https://cursos.cruzeirodosulvirtual.c
  
 <br>
 
-#  [My CERTIFICATES](https://github.com/paulinrs/certificados) 
 
 ![you learn](https://github.com/paulinrs/paulinrs/assets/104467309/c1849755-cd5b-424b-926e-1dbda84bf33c)
 
