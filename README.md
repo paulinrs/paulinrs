@@ -1,4 +1,6 @@
 #
+![onda](https://raw.githubusercontent.com/dawidolko/dawidolko/f6ca2a27d89dac833266ca9e56c0e485df346635/assets/Bottom_down.svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=ff0000&center=true&width=1000&lines=Hello,+I+am+Paulo+Roberto.;+Be+very+welcome.)](https://git.io/typing-svg)
 #
 <div align="center">
@@ -58,5 +60,5 @@ in software testing from [Cruzeiro do Sul](https://cursos.cruzeirodosulvirtual.c
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
-![onda](https://raw.githubusercontent.com/dawidolko/dawidolko/f6ca2a27d89dac833266ca9e56c0e485df346635/assets/Bottom_down.svg)
+
 
