@@ -1,12 +1,9 @@
 #
-![onda](https://raw.githubusercontent.com/dawidolko/dawidolko/f6ca2a27d89dac833266ca9e56c0e485df346635/assets/Bottom_down.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=ff0000&center=true&width=1000&lines=Hello,+I+am+Paulo+Roberto.;+Be+very+welcome.)](https://git.io/typing-svg)
 #
 <div align="center">
-<h2><b><i>Graduated in Systems Analysis and Development, student Postgraduate 
-    
-in software testing from [Cruzeiro do Sul](https://cursos.cruzeirodosulvirtual.com.br/pos-testes-de-software/p), and passionate about Technology and Literature.</i><b/></h2>
+<h2><b><i>Graduated in Systems Analysis and Development and passionate about Technology and Literature.</i><b/></h2>
 
 
 <img alt="Gif" height="390" width="870" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/104467309/178572559-8f9a513e-d90b-4a3b-9c13-15dbf61fceb1.gif">
@@ -34,7 +31,7 @@ in software testing from [Cruzeiro do Sul](https://cursos.cruzeirodosulvirtual.c
 
   
 <p align="center">
-  <img src="https://camo.githubusercontent.com/667a1b5f72fd3bea2f990da4a75cd30b92899281133f8b3cd2d9d6dbfe3d39b2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e676966" width="100">
+
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/⚙️ Some Tool and Tech I use:-000000?style=""=hyper&logoColor=white" width="450">
@@ -42,7 +39,7 @@ in software testing from [Cruzeiro do Sul](https://cursos.cruzeirodosulvirtual.c
 <br>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=vscode,cypress,postman,html,css,js,ts,nodejs,py,github,git" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,nodejs,nextjs,react,py,django,github,git" />
 </a>
 </p>
 
@@ -57,8 +54,7 @@ in software testing from [Cruzeiro do Sul](https://cursos.cruzeirodosulvirtual.c
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+
 
 
 
