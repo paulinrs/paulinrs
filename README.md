@@ -39,7 +39,7 @@
 <br>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,nodejs,nextjs,react,py,django,github,git" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,py,django,js,ts,nodejs,nextjs,react,github,git" />
 </a>
 </p>
 
