@@ -1,17 +1,18 @@
 #
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=ff0000&center=true&width=1000&lines=Hello,+I+am+Paulo+Roberto.;+Be+very+welcome.)](https://git.io/typing-svg)
-#
-<div align="center">
-<h2><b><i>Graduated in Systems Analysis and Development and passionate about Technology and Literature.</i><b/></h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=ff0000&center=true&width=1000&lines=Olá,+eu+sou+Paulo+Roberto.;+seja+muito+bem-vindo.)](https://git.io/typing-svg)
 
+#
+
+<div align="center">
+<h2><b><i>Graduado em Análise e Desenvolvimento de Sistemas e apaixonado por Tecnologia e Literatura.</i><b/></h2>
 
 <img alt="Gif" height="390" width="870" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/104467309/178572559-8f9a513e-d90b-4a3b-9c13-15dbf61fceb1.gif">
 </div>
 
+#
 
-
- <h3 align="center"> 👉 "The more i study, the more i feel that my mind is insatiable for it." 
+ <h3 align="center"> 👉 "Quanto mais estudo, mais sinto que minha mente é insaciável por isso." 
     - <i>ADA LOVELACE</i></h3>
 
 #
@@ -28,13 +29,10 @@
 
 ![you learn](https://github.com/paulinrs/paulinrs/assets/104467309/c1849755-cd5b-424b-926e-1dbda84bf33c)
 
-
-  
-<p align="center">
-
+#
 
 <p align="center"> 
-<img src="https://img.shields.io/badge/⚙️ Some Tool and Tech I use:-000000?style=""=hyper&logoColor=white" width="450">
+<img src="https://img.shields.io/badge/-⚙️ Algumas ferramentas e tecnologias que eu uso-000000?style=""=hyper&logoColor=white" width="700">
 
 <br>
 
@@ -46,7 +44,9 @@
 
 <img src="https://user-images.githubusercontent.com/104467309/178513487-d1a267ff-4f00-4bf2-85f5-4eb27662bc24.gif" width="250px">
 
-<h2><b> "The only constant is change."  - <i>LINUS TORVALDS</i><b/></h2>
+#
+
+<h2><b> "A única constante é a mudança."  - <i>LINUS TORVALDS</i><b/></h2>
 
 
 ![Snake Animation](https://github.com/paulinrs/paulinrs/blob/output/github-contribution-grid-snake-dark.svg)
