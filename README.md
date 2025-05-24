@@ -24,10 +24,14 @@
 <div align="center">
 <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="80"> 
  
-<br>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521981581625)
 
 
-![you learn](https://github.com/paulinrs/paulinrs/assets/104467309/c1849755-cd5b-424b-926e-1dbda84bf33c)
+
+#
+
+![Image](https://github.com/user-attachments/assets/2b7b1061-3357-4595-b8a8-49d86b3974af)
+
 
 #
 
