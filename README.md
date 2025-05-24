@@ -24,9 +24,15 @@
 <div align="center">
 <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="80"> 
  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521981581625)
+#
 
+Clique e me chame👇🏾
 
+ <div align="center">
+  <a href="https://wa.me/5521981581625">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="60">
+  </a>
+</div>
 
 #
 
